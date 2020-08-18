@@ -7,7 +7,7 @@
 body {
     background-color: #f5f7fa;
     padding: 40px 20px;
-    font-family: Montserrat;
+    font-family: Montserrat, serif;
 }
 
 .wrapper {
@@ -115,7 +115,7 @@ body {
     margin-bottom: 10px;
 }
 
-.projects-link {
+.link {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -135,12 +135,12 @@ body {
     font-weight: 100;
 }
 
-.projects-item {
+.link-item {
     font-weight: 700;
     margin-left: 18px;
 }
 
-.projects-container {
+.link-container {
     margin-bottom: 55px;
 }
 
