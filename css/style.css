@@ -26,6 +26,7 @@ body {
 
 .my-photo {
     width: 370px;
+    border-radius: 100px;
 }
 
 .main-container {
@@ -84,6 +85,8 @@ body {
 }
 
 .info-container {
+    /*float: right;*/
+    /*display: flex;*/
     margin-bottom: 65px;
 }
 
