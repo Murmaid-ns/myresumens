@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nidilko Viacheslav</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat" rel="stylesheet">
-    <link rel="stylesheet" href="src/css/style.css">
+    <!--    <link rel="stylesheet" href="src/css/style.scss">-->
     <script defer src="src/script/index.js"></script>
 </head>
 <body>
@@ -13,7 +13,7 @@
 <div class="wrapper">
     <aside class="sidebar">
         <!--contacts container-->
-        <img src="src/img/photo.jpg" class="my-photo" alt="My photo">
+        <img src="img/photo.jpg" class="my-photo" alt="My photo">
         <div class="contacts-container">
             <h3 class="contacts-title">Contacts</h3>
             <div>
@@ -70,9 +70,13 @@
         <!--work experience-->
         <div>
             <h3 class="about-me-title">Work Experience</h3>
-            <p class="profession-duties">Unfortunately, I haven't work experience in this field</p>
-            <p>But i have some 'pet projects'</p>
-            <p><a href="https://murmaid-ns.github.io/news-portal">News Portal</a></p>
+            <div class="profession-duties">
+                <p>Unfortunately, I haven't work experience in this field</p>
+                <p>But i have some 'pet projects': </p>
+                <ol class="link-container">
+                    <li class="link-item"><a class="link" href="https://murmaid-ns.github.io/news-portal/">News Portal</a></li>
+                </ol>
+            </div>
         </div>
         <!--education-->
         <div class="education">
