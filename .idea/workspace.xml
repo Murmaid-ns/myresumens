@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ae88e13-6cc9-4a31-812f-257d7b69ebf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Murmaid-ns.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gDROGuJ60YbKWWDi9haMxVe1CY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ae88e13-6cc9-4a31-812f-257d7b69ebf4" name="Default Changelist" comment="" />
+      <created>1597647145499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597647145499</updated>
+      <workItem from="1597647147446" duration="288000" />
+      <workItem from="1597764962694" duration="3577000" />
+      <workItem from="1598196310953" duration="843000" />
+      <workItem from="1600844805933" duration="69000" />
+      <workItem from="1602249811261" duration="726000" />
+      <workItem from="1602251537482" duration="776000" />
+      <workItem from="1602355842342" duration="813000" />
+      <workItem from="1603017870121" duration="194000" />
+    </task>
+    <task id="LOCAL-00001" summary="тык">
+      <created>1597765158998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597765158998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1597770107458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597770107458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1597770364674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597770364674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1597771895312</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597771895312</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1597772468802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597772468802</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1597778864251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597778864251</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1598199297728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598199297728</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="тык" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="112" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602356696572">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="427" y="112" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.800@0.0.1280.800" timestamp="1602356696572" />
+    <state x="203" y="0" width="873" height="800" key="CommitChangelistDialog2" timestamp="1598199297428">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="203" y="0" width="873" height="800" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1598199297428" />
+    <state x="292" y="185" key="EditFileWatcherDialog" timestamp="1602356712950">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="292" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1602356712950" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1602252521156">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1602252004261" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1602252521156" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1602252521154">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1602252004258" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1602252521154" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1602252521152">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1602252004256" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1602252521152" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1602252521155">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1602252004259" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1602252521155" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1598199394753">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1598199394753" />
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597770117400">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1597770117400" />
+    <state x="358" y="301" key="git4idea.ui.GitResetDialog" timestamp="1602251807635">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="358" y="301" key="git4idea.ui.GitResetDialog/0.0.1280.800@0.0.1280.800" timestamp="1602251807635" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1597773052244">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1597773052244" />
+  </component>
+</project>
